@@ -1,0 +1,7 @@
+{
+  "p99_preco": 85026.19999999968,
+  "melhor_modelo": "Ensemble",
+  "r2_validacao": 0.71,
+  "rmse_validacao": 8042.7,
+  "mae_validacao": 5072.9
+}
